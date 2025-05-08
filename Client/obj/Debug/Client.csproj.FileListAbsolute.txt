@@ -1,0 +1,10 @@
+C:\Users\kate\source\repos\RemoteObjects\Client\bin\Debug\Client.exe.config
+C:\Users\kate\source\repos\RemoteObjects\Client\bin\Debug\Client.exe
+C:\Users\kate\source\repos\RemoteObjects\Client\bin\Debug\Client.pdb
+C:\Users\kate\source\repos\RemoteObjects\Client\bin\Debug\RemoteObjects.dll
+C:\Users\kate\source\repos\RemoteObjects\Client\bin\Debug\RemoteObjects.pdb
+C:\Users\kate\source\repos\RemoteObjects\Client\obj\Debug\Client.csproj.AssemblyReference.cache
+C:\Users\kate\source\repos\RemoteObjects\Client\obj\Debug\Client.csproj.CoreCompileInputs.cache
+C:\Users\kate\source\repos\RemoteObjects\Client\obj\Debug\Client.csproj.Up2Date
+C:\Users\kate\source\repos\RemoteObjects\Client\obj\Debug\Client.exe
+C:\Users\kate\source\repos\RemoteObjects\Client\obj\Debug\Client.pdb
