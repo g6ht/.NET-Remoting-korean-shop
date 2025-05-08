@@ -1,0 +1,10 @@
+C:\Users\kate\source\repos\RemoteObjects\Server\bin\Debug\Server.exe.config
+C:\Users\kate\source\repos\RemoteObjects\Server\bin\Debug\Server.exe
+C:\Users\kate\source\repos\RemoteObjects\Server\bin\Debug\Server.pdb
+C:\Users\kate\source\repos\RemoteObjects\Server\obj\Debug\Server.csproj.AssemblyReference.cache
+C:\Users\kate\source\repos\RemoteObjects\Server\obj\Debug\Server.csproj.CoreCompileInputs.cache
+C:\Users\kate\source\repos\RemoteObjects\Server\obj\Debug\Server.csproj.Up2Date
+C:\Users\kate\source\repos\RemoteObjects\Server\obj\Debug\Server.exe
+C:\Users\kate\source\repos\RemoteObjects\Server\obj\Debug\Server.pdb
+C:\Users\kate\source\repos\RemoteObjects\Server\bin\Debug\RemoteObjects.dll
+C:\Users\kate\source\repos\RemoteObjects\Server\bin\Debug\RemoteObjects.pdb
