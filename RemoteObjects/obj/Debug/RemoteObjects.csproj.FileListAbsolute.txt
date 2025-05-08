@@ -1,0 +1,6 @@
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\bin\Debug\RemoteObjects.dll
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\bin\Debug\RemoteObjects.pdb
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\obj\Debug\RemoteObjects.csproj.AssemblyReference.cache
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\obj\Debug\RemoteObjects.csproj.CoreCompileInputs.cache
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\obj\Debug\RemoteObjects.dll
+C:\Users\kate\source\repos\RemoteObjects\RemoteObjects\obj\Debug\RemoteObjects.pdb
